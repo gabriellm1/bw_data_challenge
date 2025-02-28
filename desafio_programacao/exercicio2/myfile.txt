@@ -1,0 +1,18 @@
+Seção 4: Multilíngue
+Português: Olá, mundo!
+日本語: こんにちは世界
+한국어: 안녕하세요 세계
+中文: 你好世界
+
+Seção 5: Texto com\nQuebras Aleatórias
+Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit.
+Sed do eiusmod\ntempor incididunt\nut labore et dolore.
+
+Seção 6: Formatação
+    Texto com indentação
+        Mais indentação aqui
+            E mais aqui\ncom quebra
+
+Seção 7: Caracteres Matemáticos
+∑(x²) = ∫f(x)dx
+π ≈ 3.14159
